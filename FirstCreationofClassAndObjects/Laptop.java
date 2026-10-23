@@ -1,8 +1,8 @@
 package FirstCreationofClassAndObjects;
 
 public class Laptop {
-    String brand;
-    int price;
+    private String brand;
+    private int price;
     Laptop(String brand, int price){
         this.brand = brand;
         this.price = price;

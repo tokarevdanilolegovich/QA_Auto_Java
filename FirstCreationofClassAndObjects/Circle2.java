@@ -1,7 +1,7 @@
 package FirstCreationofClassAndObjects;
 
 public class Circle2 {
-    int radius;
+    private int radius;
     Circle2(int radius){
         this.radius = radius;
     }

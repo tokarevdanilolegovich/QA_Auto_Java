@@ -1,8 +1,8 @@
 package FirstCreationofClassAndObjects;
 
 public class Teacher {
-    String name;
-    String subject;
+    private String name;
+    private String subject;
 
     Teacher(String name, String subject){
         this.name = name;

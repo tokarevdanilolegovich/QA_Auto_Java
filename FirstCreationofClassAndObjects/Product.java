@@ -1,8 +1,8 @@
 package FirstCreationofClassAndObjects;
 
 public class Product {
-    String name;
-    int price;
+    private String name;
+    private double price;
 
     Product(String name, int price){
         this.name = name;
@@ -12,7 +12,7 @@ public class Product {
     String getName(){
         return this.name;
     }
-    int getPrice(){
+    double getPrice(){
         return this.price;
     }
     //SETTER:

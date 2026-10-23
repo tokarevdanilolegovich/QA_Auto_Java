@@ -1,8 +1,8 @@
 package FirstCreationofClassAndObjects;
 
 public class BankAccount2 {
-    String owner;
-    int balance;
+    private String owner;
+    private int balance;
     BankAccount2(String owner,int balance){
         this.owner = owner;
         this.balance = balance;
@@ -18,9 +18,7 @@ public class BankAccount2 {
     void setOwner(String owner){
         this.owner = owner;
     }
-//    void setBalance(int balance){
-//        this.balance = balance;
-//    }
+
     public void deposit(int amount){
         this.balance = this.balance + amount;
     }

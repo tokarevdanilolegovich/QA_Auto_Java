@@ -1,8 +1,8 @@
 package FirstCreationofClassAndObjects;
 
 public class Rectangle2 {
-    int width;
-    int height;
+    private int width;
+    private int height;
 
     Rectangle2(int width,int height){
         this.width = width;
