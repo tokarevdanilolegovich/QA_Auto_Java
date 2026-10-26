@@ -11,7 +11,10 @@ public class SWITCH3_FromNumbersToLetters {
         System.out.print("Введите  число от 0 до 100: ");
         int gradeinnumber = scanner.nextInt();
         String gradeinletters="";
-        if(gradeinnumber < 60 ){
+        if(gradeinnumber < 0 || gradeinnumber > 100){
+            gradeinletters = "Невалидный ввод";
+        }
+        else if(gradeinnumber < 60 ){
             gradeinletters = "F";
         }
         else if(gradeinnumber<= 69 ){
@@ -23,9 +26,7 @@ public class SWITCH3_FromNumbersToLetters {
         else if(gradeinnumber <= 89){
             gradeinletters = "B";
         }
-        else if(gradeinnumber <= 100){
-            gradeinletters = "A";
-        }
+       
         else gradeinletters = "Невалидный ввод";
         System.out.println("Ваша оценка: " + gradeinletters);
     }

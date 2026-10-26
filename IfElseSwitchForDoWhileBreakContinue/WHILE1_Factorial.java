@@ -12,11 +12,17 @@ public class WHILE1_Factorial {
         int number = scanner.nextInt();
         int i = 1;
         int result = 1;
-        while(i <= number){
-            result = result * i;
-            i++;
+        if(number < 0){
+            System.out.println("Вы ввели отрицательное число");
         }
-        System.out.println(result);
+        else{
+            while(i <= number){
+                result = result * i;
+                i++;
+            }
+            System.out.println(result);
+        }
+
     }
 }
 //6

@@ -14,11 +14,11 @@ public class BREAK3_OnlyPositive {
             System.out.print("Введите число: ");
             number = scanner.nextInt();
             counter++;
-            if(number < 0){
+            if(number <= 0){
                 continue;
             }
             System.out.println("Вы ввели положительное число: " + number);
 
-        } while (counter <= 10);//придумал условие сам,так как в задаче не было
+        } while (counter < 10);//придумал условие сам,так как в задаче не было
     }
 }

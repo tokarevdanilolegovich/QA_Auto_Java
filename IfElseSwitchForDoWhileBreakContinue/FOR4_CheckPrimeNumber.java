@@ -20,6 +20,7 @@ public class FOR4_CheckPrimeNumber {
             for(int i = 2; i < number;i++){
                 if(number % i == 0 ){
                     isPrime = false;
+                    break;
                 }
             }
             System.out.println("Число простое? - " + isPrime);
