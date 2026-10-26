@@ -8,14 +8,13 @@ public class SWITCH5_SimpleCalculator {
     }
     public static void calculator(){
         Scanner scanner = new Scanner(System.in);
-        Scanner scanner1 = new Scanner(System.in);
-        Scanner scanner2 = new Scanner(System.in);
+
         System.out.print("Введите первое число: ");
         int firstnumber = scanner.nextInt();
         System.out.print("Введите второе число: ");
-        int secondnumber = scanner1.nextInt();
+        int secondnumber = scanner.nextInt();
         System.out.print("Введите оператор: ");
-        String operator = scanner2.nextLine();
+        String operator = scanner.next();
         double result = 0;
         switch(operator){
             case "+":

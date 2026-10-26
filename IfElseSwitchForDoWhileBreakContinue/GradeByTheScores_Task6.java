@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class GradeByTheScores_Task6 {
     public static void main(String[] args){
+
         defineGradeByScore();
     }
     public static void defineGradeByScore(){
@@ -11,7 +12,10 @@ public class GradeByTheScores_Task6 {
         System.out.print("Введите результат теста от 0 до 100: ");
         int score = scanner.nextInt();
         String grade;
-        if(score >= 90){
+        if(score < 0 || score > 100){
+            grade = "Невалидный ввод";
+        }
+        else if(score >= 90){
             grade = "Отлично";
         }
         else if(score >= 75 && score <= 89){
