@@ -1,0 +1,115 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="uNqyJid2Iq_KXKQuUzJz">
+    <mxGraphModel dx="1210" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-1" edge="1" parent="1" source="3tPlxbQ_CV38GMqHdWre-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-2" edge="1" parent="1" source="3tPlxbQ_CV38GMqHdWre-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="115" width="221" x="529" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Морское существо&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="549.5" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="221" x="430" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="221" x="680" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="ПТИЦА" vertex="1">
+          <mxGeometry height="30" width="60" x="760.5" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="470" x="920" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="АКВАРИУМ" vertex="1">
+          <mxGeometry height="30" width="90" x="1100" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Движение&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="1220" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Морское существо&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="180" x="940" y="365" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="1145" y="384.5" as="sourcePoint" />
+            <mxPoint x="1165" y="384.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="750" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="221" x="430" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="221" x="680" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Движение&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="760" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-17" edge="1" parent="1" source="3tPlxbQ_CV38GMqHdWre-10" style="curved=1;curveGeometry=1;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="3tPlxbQ_CV38GMqHdWre-13" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.4764" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="450" />
+              <mxPoint x="830" y="440" />
+              <mxPoint x="780" y="470" />
+            </Array>
+            <mxPoint x="780" y="520" as="sourcePoint" />
+            <mxPoint x="830" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-18" edge="1" parent="1" source="3tPlxbQ_CV38GMqHdWre-11" style="curved=1;curveGeometry=1;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" target="3tPlxbQ_CV38GMqHdWre-4" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.0737" as="geometry">
+            <Array as="points">
+              <mxPoint x="1000" y="330" />
+              <mxPoint x="920" y="240" />
+              <mxPoint x="840" y="220" />
+              <mxPoint x="770" y="230" />
+            </Array>
+            <mxPoint x="1145" y="450" as="sourcePoint" />
+            <mxPoint x="852" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="221" x="430" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="АКУЛА" vertex="1">
+          <mxGeometry height="30" width="60" x="510.5" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="221" x="680" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="МОРСКАЯ ЗВЕЗДА" vertex="1">
+          <mxGeometry height="30" width="130" x="725.5" y="535" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Быстро" vertex="1">
+          <mxGeometry height="30" width="60" x="510.5" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Медленно" vertex="1">
+          <mxGeometry height="30" width="80" x="750.5" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Плавать" vertex="1">
+          <mxGeometry height="30" width="70" x="519.5" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Ползать" vertex="1">
+          <mxGeometry height="30" width="70" x="770" y="805" as="geometry" />
+        </mxCell>
+        <mxCell id="3tPlxbQ_CV38GMqHdWre-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Агрессивно" vertex="1">
+          <mxGeometry height="30" width="90" x="495.5" y="670" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

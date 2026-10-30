@@ -1,0 +1,119 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="RshDxOqXFGXLaEPTsBki">
+    <mxGraphModel dx="1440" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yt18nB1bSOffTym3P-5u-2" edge="1" parent="1" source="yt18nB1bSOffTym3P-5u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-3" edge="1" parent="1" source="yt18nB1bSOffTym3P-5u-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="115" width="221" x="279" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;растение&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="334.5" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="221" x="180" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="221" x="430" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="ПТИЦА" vertex="1">
+          <mxGeometry height="30" width="60" x="510.5" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="170" width="470" x="670" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;h3 class=&quot;t-redactor__h3&quot; style=&quot;margin: 2.8125rem 0px 1.125rem; line-height: 1.2; font-size: 1.575rem; box-sizing: border-box; font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong style=&quot;box-sizing: border-box;&quot;&gt;Ботанический сад&lt;/strong&gt;&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="110" width="290" x="750" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;color: rgb(43, 28, 255); font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;уход&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="995" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;растение&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="110" x="725" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="895" y="304.5" as="sourcePoint" />
+            <mxPoint x="915" y="304.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="20" width="120" x="500" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="270" x="131" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="290" x="430" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;fontColor=#2B1CFF;" value="&lt;span style=&quot;font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;уход&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="535" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-19" edge="1" parent="1" source="yt18nB1bSOffTym3P-5u-12" style="curved=1;curveGeometry=1;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" target="yt18nB1bSOffTym3P-5u-5" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.0733" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="250" />
+              <mxPoint x="670" y="160" />
+              <mxPoint x="590" y="140" />
+              <mxPoint x="520" y="150" />
+            </Array>
+            <mxPoint x="895" y="370" as="sourcePoint" />
+            <mxPoint x="602" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="221" x="180" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Орхидея&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="240.5" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="221" x="430" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Кактус&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="500.5" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;color: light-dark(#000000, var(--ge-light-color, #ffffff)); font-size: 18px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;TildaSans, Arial, Roboto, Open Sans, sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen, Cantarell, Helvetica Neue&quot;&gt;Обеспечить тень и влажность&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="270" x="131" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="&lt;span style=&quot;font-family: TildaSans, Arial, Roboto, &amp;quot;Open Sans&amp;quot;, sans-serif, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Oxygen, Cantarell, &amp;quot;Helvetica Neue&amp;quot;; font-size: 18px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Обеспечить свет и редкий полив&lt;/span&gt;" vertex="1">
+          <mxGeometry height="40" width="300" x="425" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-30" edge="1" parent="1" source="yt18nB1bSOffTym3P-5u-11" style="curved=1;curveGeometry=1;endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yt18nB1bSOffTym3P-5u-17" value="">
+          <mxGeometry height="50" relative="1" width="50" x="0.1746" as="geometry">
+            <Array as="points">
+              <mxPoint x="881" y="270" />
+              <mxPoint x="801" y="180" />
+              <mxPoint x="721" y="160" />
+              <mxPoint x="651" y="170" />
+            </Array>
+            <mxPoint x="900" y="305" as="sourcePoint" />
+            <mxPoint x="548" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-36" edge="1" parent="1" source="yt18nB1bSOffTym3P-5u-24" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=7;rounded=0;defaultLabelBackgroundColor=page;fillColor=#d5e8d4;strokeColor=#0000CC;exitX=0.86;exitY=0.004;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330.5" y="748" as="sourcePoint" />
+            <mxPoint x="551.5" y="288" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yt18nB1bSOffTym3P-5u-37" edge="1" parent="1" source="yt18nB1bSOffTym3P-5u-25" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=7;rounded=0;defaultLabelBackgroundColor=page;fillColor=#d5e8d4;strokeColor=#0000CC;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="yt18nB1bSOffTym3P-5u-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="620.06" y="789.9800000000002" as="sourcePoint" />
+            <mxPoint x="909.5" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
