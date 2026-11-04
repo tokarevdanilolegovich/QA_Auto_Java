@@ -12,6 +12,6 @@ public class Manuscript extends Exhibit{
 
     @Override
     public void preserve(){
-        System.out.println(getName() + " требует контролируемой влажности");
+        System.out.println(getName() + " требует контролируемой влажности и температуры");
     }
 }
